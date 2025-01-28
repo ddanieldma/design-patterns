@@ -1,2 +1,2 @@
 # design-patterns
-Repo to study programming design patterns in poo using python
+Repo to study programming design patterns in oop using python
